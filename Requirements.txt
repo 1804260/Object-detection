@@ -1,0 +1,6 @@
+This is a Object detection code 
+Python code runner or sublime
+OpenCV files
+weights
+Images 
+Videos 
