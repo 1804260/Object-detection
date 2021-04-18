@@ -1,5 +1,5 @@
 # Object-detection
-This algorithm identifies 80 different types of objects and classifies them in catogary.
+This algorithm identifies 80 different types of objects and classifies them in cateogary.
 
 We load the algorythm. Then run the algorythm we need three files:
 1. Weight file: it’s the trained model, the core of the algorythm to detect the objects.
